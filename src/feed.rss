@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://tuber.org.in/feed.rss" rel="self" type="application/rss+xml" />
+    <title>tuber.org.in</title>
+    <link>https://tuber.org.in</link>
+    <description>a panel for trending news ,Breaking news ,international news</description>
+    <language>en-us</language>    
+    <image>
+      <title>Tuber.org.in</title>
+      <link>https://tuber.org.in</link>
+      <url>https://tuber.org.in/tuber-news/favicon2.png</url>
+      <width>70</width>
+      <height>55</height>
+    </image>
+    <item>
+      <title>Is ON whey protien safe to consume ?</title>
+      <pubDate>Mon, 28 Feb 2022 21:40:21GMT</pubDate>
+      <link>https://tuber.org.in/tuber-news/ON-Whey-Protien</link>
+      <guid>https://tuber.org.in/tuber-news/ON-Whey-Protien</guid>
+      <description>What is ON whey protein? Whey is a liquid by-product of cheese production that contains a mix of proteins.</description>
+    </item>
+    <item>
+      <title>Is amway plant protein good for health ?</title>
+      <pubDate>Mon, 28 Feb 2022 21:40:21GMT</pubDate>
+      <link>https://tuber.org.in/tuber-news/Amway-NutriliteAll-Plant-Protein-Review</link>
+      <guid>https://tuber.org.in/tuber-news/Amway-NutriliteAll-Plant-Protein-Review</guid>
+      <description>Amway protien powder review</description>
+    </item>
+    <item>
+      <title>how collagen work on skin</title>
+      <pubDate>Mon, 28 Feb 2022 21:40:21GMT</pubDate>
+      <link>https://tuber.org.in/tuber-news/Collagen-Fiber-Protien-Review</link>
+      <guid>https://tuber.org.in/tuber-news/Collagen-Fiber-Protien-Review</guid>
+      <description>Many people are interested in the properties of collagen fiber. However, there are some caveats that you should be aware of when purchasing this product.</description>
+    </item>
+  </channel>
+</rss>
